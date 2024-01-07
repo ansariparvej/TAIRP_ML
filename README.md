@@ -19,7 +19,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/shamsaddin97/image-captioning-dataset-random-images/data
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/TAIRP_ML/tree/main/Level_2_Task_1%3A%20Image%20Captioning
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -35,6 +35,6 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/dev0914sharma/dataset
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/TAIRP_ML/tree/main/Level_2_Task_3%3A%20Movie%20Recommender%20System
 
 -----------------------------------------------------------------------------------------------------------
